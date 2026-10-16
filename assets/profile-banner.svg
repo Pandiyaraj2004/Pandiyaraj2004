@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Pandiyaraj A — Full-stack, Frontend, AI/ML & Data</title><desc id="desc">A dark navy portfolio banner with cyan and violet geometric accents.</desc>
+<title id="title">Pandiyaraj A — Full-stack, Frontend, AI/ML &amp; Data</title><desc id="desc">A dark navy portfolio banner with cyan and violet geometric accents.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1225"/><stop offset="1" stop-color="#18213c"/></linearGradient><linearGradient id="accent"><stop stop-color="#38d8da"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
 <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
 <path d="M0 298H1200" stroke="url(#accent)" stroke-width="4"/>

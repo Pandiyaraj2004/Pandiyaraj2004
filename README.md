@@ -41,7 +41,7 @@ I work across React interfaces, Node.js and Python backends, APIs, databases, mo
 
 **AI / ML model building:** [Crop image classification](https://github.com/Pandiyaraj2004/smart-crop-Disease-Identification), [multiple disease prediction](https://github.com/Pandiyaraj2004/Multiple-Disease-Prediction-using-Machine_Learning), and [OpenCV object detection](https://github.com/Pandiyaraj2004/object_detection).
 
-**NLP and LLMs:** [NLP chatbot](https://github.com/Pandiyaraj2004/Real-time-chatbot-using-NLP) and [VidPilot AI](https://github.com/Pandiyaraj2004/VidPilot-AI). I also have experience with RAG workflows and LLM integrations; the linked chatbot is an intent-matching project, not a RAG implementation.
+**NLP and LLMs:** [NLP chatbot](https://github.com/Pandiyaraj2004/Real-time-chatbot-using-NLP) and [VidPilot AI](https://github.com/Pandiyaraj2004/VidPilot-AI). I also have experience with RAG workflows and LLM integrations; the linked chatbot is an intent-matching project.
 
 **Data analysis:** Python, SQL, Excel, and Power BI for exploring data and communicating results.
 
@@ -49,7 +49,7 @@ I work across React interfaces, Node.js and Python backends, APIs, databases, mo
 
 | Area | Technologies |
 | --- | --- |
-| Languages | JavaScript, TypeScript, Python, SQL |
+| Languages | Python, Core Java, JavaScript, TypeScript, SQL |
 | Frontend | React, Next.js, HTML, CSS, Tailwind CSS, Three.js, Framer Motion |
 | Backend & data | Node.js, Express, Flask, Firebase, PostgreSQL, MySQL, Redis |
 | AI, ML & NLP | TensorFlow/Keras, scikit-learn, OpenCV, NLTK, RAG, LLM integrations |

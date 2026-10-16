@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Pandiyaraj A — Full-stack, Frontend, Applied AI</title><desc id="desc">A dark navy portfolio banner with cyan and violet geometric accents.</desc>
+<title id="title">Pandiyaraj A — Full-stack, Frontend, AI/ML & Data</title><desc id="desc">A dark navy portfolio banner with cyan and violet geometric accents.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1225"/><stop offset="1" stop-color="#18213c"/></linearGradient><linearGradient id="accent"><stop stop-color="#38d8da"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
 <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
 <path d="M0 298H1200" stroke="url(#accent)" stroke-width="4"/>
@@ -8,5 +8,5 @@
 <text x="58" y="60" fill="#59e1dd" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">CODE. CONNECT. CREATE.</text>
 <text x="55" y="132" fill="#f4f7ff" font-family="Arial,sans-serif" font-weight="700" font-size="56">Pandiyaraj A</text>
 <text x="58" y="177" fill="#b9c6e4" font-family="Arial,sans-serif" font-size="22">From thoughtful interfaces to intelligent workflows.</text>
-<g font-family="Arial,sans-serif" font-size="14" fill="#e2e8fa"><rect x="58" y="218" width="132" height="34" rx="17" fill="#223550"/><text x="80" y="240">FULL-STACK</text><rect x="204" y="218" width="124" height="34" rx="17" fill="#223550"/><text x="228" y="240">FRONTEND</text><rect x="342" y="218" width="134" height="34" rx="17" fill="#303052"/><text x="362" y="240">APPLIED AI</text></g>
+<g font-family="Arial,sans-serif" font-size="14" fill="#e2e8fa"><rect x="58" y="218" width="132" height="34" rx="17" fill="#223550"/><text x="80" y="240">FULL-STACK</text><rect x="204" y="218" width="124" height="34" rx="17" fill="#223550"/><text x="228" y="240">FRONTEND</text><rect x="342" y="218" width="134" height="34" rx="17" fill="#303052"/><text x="362" y="240">AI / ML</text></g>
 </svg>

@@ -1,4 +1,4 @@
-![Pandiyaraj A — Full-stack, AI/ML, NLP, and data analysis](assets/profile-banner.svg)
+![Pandiyaraj A — Full-stack, AI/ML, NLP, and data analysis](assets/profile-banner-v2.svg)
 
 <div align="center">
 

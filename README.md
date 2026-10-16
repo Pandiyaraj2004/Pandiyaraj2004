@@ -1,3 +1,5 @@
+![Pandiyaraj A — Full-stack, frontend, and applied AI](assets/profile-banner.svg)
+
 <div align="center">
 
 # Hi, I'm Pandiyaraj A

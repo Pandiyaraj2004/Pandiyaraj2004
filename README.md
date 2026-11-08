@@ -10,7 +10,7 @@ I build end-to-end web applications, from frontend interfaces and backend APIs t
 
 [Portfolio](https://pandiyaraj.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/pandiyaraj-a-mca/) · [Resume](https://github.com/Pandiyaraj2004/MY-NEW-PORTFOLIO/blob/main/public/assets/Pandiyaraj_A_Resume.pdf) · [Email](mailto:pandiyaraja409@gmail.com)
 
-**MCA graduate · Open to full-stack, frontend, backend, AI/ML, and data roles**
+**Open to full-stack, frontend, backend, AI/ML, and data roles**
 
 </div>
 
